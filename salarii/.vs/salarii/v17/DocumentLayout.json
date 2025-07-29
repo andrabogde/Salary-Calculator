@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\savefileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:savefileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|d:\\downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:forgotpassform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|d:\\downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\dateangajatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:dateangajatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|d:\\downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|d:\\downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:58:28.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateAngajatForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\DateAngajatForm.cs",
+              "RelativeDocumentMoniker": "DateAngajatForm.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\DateAngajatForm.cs [Design]",
+              "RelativeToolTip": "DateAngajatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:22:54.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgotPassForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\ForgotPassForm.cs",
+              "RelativeDocumentMoniker": "ForgotPassForm.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\ForgotPassForm.cs [Design]",
+              "RelativeToolTip": "ForgotPassForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:43:09.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:43:06.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveFileForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\SaveFileForm.cs",
+              "RelativeDocumentMoniker": "SaveFileForm.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\SaveFileForm.cs [Design]",
+              "RelativeToolTip": "SaveFileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:43:00.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:58:30.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:40:53.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Downloads\\wetransfer_salarii_2024-09-12_1243\\salarii\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:41:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

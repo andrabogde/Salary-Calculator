@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marian\\Desktop\\salarii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|c:\\users\\marian\\desktop\\salarii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|c:\\users\\marian\\desktop\\salarii\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|C:\\Users\\Marian\\Desktop\\salarii\\dateangajatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27F2FEF7-9A23-4764-BFBC-7E8B461CB93C}|SALARII.csproj|solutionrelative:dateangajatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Marian\\Desktop\\salarii\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\Marian\\Desktop\\salarii\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:58:30.548Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marian\\Desktop\\salarii\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marian\\Desktop\\salarii\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:58:28.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateAngajatForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Marian\\Desktop\\salarii\\DateAngajatForm.cs",
+              "RelativeDocumentMoniker": "DateAngajatForm.cs",
+              "ToolTip": "C:\\Users\\Marian\\Desktop\\salarii\\DateAngajatForm.cs [Design]",
+              "RelativeToolTip": "DateAngajatForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:22:54.497Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

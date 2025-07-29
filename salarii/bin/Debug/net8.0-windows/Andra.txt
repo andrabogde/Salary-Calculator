@@ -1,0 +1,9 @@
+Nume: Andra
+Salariu: 6500
+Ore lucrate: 160
+Salariu rezultat: 6500
+CAS: 1625
+CAS: 650
+Impozit: 422
+Deducere: 0
+Salariu net: 3803

@@ -1,0 +1,9 @@
+Nume: Costin
+Salariu: 3700
+Ore lucrate: 160
+Salariu rezultat: 3700
+CAS: 925
+CAS: 370
+Impozit: 130
+Deducere: 1110
+Salariu net: 2275

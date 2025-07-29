@@ -1,0 +1,9 @@
+Nume: Marian
+Salariu: 3700
+Ore lucrate: 160
+Salariu rezultat: 2677,30
+CAS: 669
+CAS: 268
+Impozit: 94
+Deducere: 803
+Salariu net: 1646,3000000000002
